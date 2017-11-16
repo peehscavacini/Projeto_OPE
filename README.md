@@ -2,6 +2,6 @@
 
 # Bruno Tomas Santos Buzzo - 1700548
 # Henrique Ambroselli Saula - 1700084
-# Nayara de Paula Muniz - 1700239
+# Nayara de Pauala Muniz - 1700239
 # Pedro Henrique Alves Scavacini da Silva - 1700552
-# Yasmin de Laia Gallante - 1700550
+# Yasmin de Laia Galante - 1700550
